@@ -1,65 +1,85 @@
-# Editopia-Photo-Editor-FCAI-CU-Competition-
-Date: April, 18, 2024
+# Editopia (Photo Editor Application)
 
-Editopia (Photo Editor Application) 
+Welcome to **Editopia**, a powerful and user-friendly photo editor that offers a wide range of filters to enhance your images. This application is designed for anyone looking to apply unique visual effects and make creative edits.
 
-My name is: Malak Mohamed Saad Fahmy Al-Aabiad 
+</div>
+  <img src="Editopia.jpg" width=100%>
+</div>
 
-From Faculty of Computers and Artificial Intelligence- Cairo University. 
-A first level student. 
+## How It Works
 
-All this is under the supervision of: Dr. Mohamed El-Ramly
-In the Structured programming Course (CS112).
+1. **Start the Application**: Click the "Start" button to launch the application. If you'd like to exit, simply click the "End" button.
+2. **Load an Image**: After starting, load the image you want to edit.
+3. **Apply Filters**: Click on the "Filters" button to view the available filters, and choose any to apply.
 
-Now I will begin explaining the application:
+## Available Filters
 
-First we will click on the start button to start the application.
+- **Grayscale Filter**: Converts the image into grayscale.
+- **Black and White Filter**: Converts the image to black and white.
+- **Invert Filter**: Inverts the colors of the image.
+- **Infrared Filter**: Simulates the image as if viewed under infrared rays.
+- **PurpleScale Filter**: Applies a purple tone to the image.
+- **Natural Sunlight Filter**: Adds a sunlight effect to the image.
+- **Old TV Filter**: Makes the image look like it’s being viewed on an old TV screen.
+- **Brightness Filter**: Adjusts the brightness of the image using a slider.
+- **Oil Painting Filter**: Makes the image look like an oil painting.
+- **Blur Filter**: Blurs the image with an adjustable blur ratio.
+- **Detect Edge Filter**: Highlights the edges in the image.
+- **Crop Filter**: Allows cropping of any part of the image.
+- **Merge Filter**: Merges two images by resizing or cropping to match dimensions.
+- **Image Skewing Filter**: Skews the image at an angle in either direction.
+- **Flip Filter**: Flips the image vertically or horizontally.
+- **Rotate Filter**: Rotates the image up to 360 degrees.
+- **Resizing Filter**: Adjusts the image dimensions.
+- **Adding Frame Filter**: Adds a customizable frame to the image.
+- **Mirror Filter**: Reflects the image as if viewed in a mirror.
+- **PopArt Colors Filter**: Applies a PopArt effect by merging the image four times with different colors.
 
-If we click on the end button, the program will close.
+## Saving Your Image
 
-When the program starts, the first thing we will do is that we will load the image that we would like to process using the filters in the application, and after that we will click on the filters button to show all the filters. 
+After modifying your image with the desired filters, click the **Save Image** button to choose a location to save your edited image.
 
-Now we will try all the filters:
+## Installation
 
-The Grayscale filter: is a filter that turns the image into gray. 
+To use Editopia, follow these steps:
 
-The Black and white filter: is a filter that converts an image to black and white. 
+1. **Clone the repository**:
 
-The Invert filter: is a filter that inverts the colors of an image. 
+    ```bash
+    git clone https://github.com/yourusername/editopia.git
+    ```
 
-The Infrared filter: is a filter that shows the image under infrared rays. 
+2. **Navigate to the project directory**:
 
-The PurpleScale filter: that turns the image into purple. 
+    ```bash
+    cd editopia
+    ```
 
-The Natural sunlight filter: is a filter that makes the image look like it is under sunlight. 
+3. **Install dependencies**:
 
-The Old TV filter: is a filter that makes the image appear as if it appears on an old television screen. 
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-The Brightness filter: is a filter that lightens and darkens the colors of an image using this slider which called brightness slider. 
+4. **Run the application**:
 
-The Oil Painting filter: is a filter that makes the image appear as if it was painted in oil colors. 
+    ```bash
+    python app.py
+    ```
 
-The Blur filter: is a filter that blurs the image as shown, and the blur ratio increases as we increase the blur ratio slider. 
+## Features
 
-The Detect Edge filter: is a filter that identifies the edges of an image. 
+- Wide range of filters for image enhancement.
+- User-friendly interface for seamless editing.
+- Real-time preview of applied filters.
 
-The Crop filter: is a filter that crops any part of the image from any position you want. 
+## Future Enhancements
 
-The Merge filter: is a filter that merges two images with each other, either by increasing the dimensions of the smaller image to equal the dimensions of the larger image, or by cropping the larger image so that its farthest dimensions match the dimensions of the small image.
+- Add more creative filters.
+- Include advanced editing tools like color correction and contrast adjustment.
+- Enhance performance for faster image processing.
 
-The Image Skewing filter: makes the image skew at any specified angle, in either the left or right direction. 
+## Contributions
 
-The Flip filter: is a filter that flips the image vertically or horizontally.
+Contributions are welcome! Feel free to fork the repository and submit a pull request. For any major changes, please open an issue to discuss before proceeding.
 
-The Rotate filter: rotates the image up to 360 degrees. 
-
-
-The Resizing filter: is a filter that changes the dimensions of an image. 
-
-The Adding Frame filter: adds a frame to the image, and you can control the color of the frame as you want. You can add two frames in the same image in two different colors or the same color.
-
-The Mirror filter: is a filter that makes the image appear to be reflected in a mirror. 
-
-The PopArt colors filter: is a filter that merges the image with itself 4 times, turning it into a different color each Time.
-
-Finally, if we want to save the image that we have modified, we click on the Save Image button and choose the location where we would like to save the image.
