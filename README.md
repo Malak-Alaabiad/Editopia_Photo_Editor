@@ -3,7 +3,7 @@
 Welcome to **Editopia**, a powerful and user-friendly photo editor that offers a wide range of filters to enhance your images. This application is designed for anyone looking to apply unique visual effects and make creative edits.
 
 </div>
-  <img src="GUI logo.jpg" width=100%>
+  <img src="GUI logo.jpg" width=50%>
 </div>
 
 ## How It Works
