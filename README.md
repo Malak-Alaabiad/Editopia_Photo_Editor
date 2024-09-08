@@ -39,34 +39,6 @@ Welcome to **Editopia**, a powerful and user-friendly photo editor that offers a
 
 After modifying your image with the desired filters, click the **Save Image** button to choose a location to save your edited image.
 
-## Installation
-
-To use Editopia, follow these steps:
-
-1. **Clone the repository**:
-
-    ```bash
-    git clone https://github.com/yourusername/editopia.git
-    ```
-
-2. **Navigate to the project directory**:
-
-    ```bash
-    cd editopia
-    ```
-
-3. **Install dependencies**:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. **Run the application**:
-
-    ```bash
-    python app.py
-    ```
-
 ## Features
 
 - Wide range of filters for image enhancement.
