@@ -50,8 +50,3 @@ After modifying your image with the desired filters, click the **Save Image** bu
 - Add more creative filters.
 - Include advanced editing tools like color correction and contrast adjustment.
 - Enhance performance for faster image processing.
-
-## Contributions
-
-Contributions are welcome! Feel free to fork the repository and submit a pull request. For any major changes, please open an issue to discuss before proceeding.
-
